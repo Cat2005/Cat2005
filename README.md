@@ -14,6 +14,6 @@ Code:
 ![](https://img.shields.io/badge/Haskell-EFF7F6)
 ![](https://img.shields.io/badge/Java-F7D6E0)
 ![](https://img.shields.io/badge/Python-bff8ff)
-![](https://img.shields.io/badge/C-bff8ff)
+![](https://img.shields.io/badge/C-ff5d8f)
 
 
