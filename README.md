@@ -7,6 +7,6 @@ I'm a third year CS student at the **University of Edinburgh**.
 
 ## My skills
 
-![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![](https://img.shields.io/badge/React-ffabf1)
 
 
