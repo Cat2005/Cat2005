@@ -7,7 +7,7 @@ I'm a third year CS student at the **University of Edinburgh**.
 - 🔭 I’m currently working on my startup.
 - 🌱 I like attending hackathons - you can check out some projects I've done in the past for AthenaHack and HackZurich.
 
-## Here are some of my skills.
+**Some of my skills include:**
 
 ![](https://img.shields.io/badge/React-7BDFF2)
 ![](https://img.shields.io/badge/JavaScript-ff5d8f)
