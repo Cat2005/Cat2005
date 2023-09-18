@@ -8,6 +8,7 @@ I'm a third year CS student at the **University of Edinburgh**.
 ## My skills
 
 Code:
+
 ![](https://img.shields.io/badge/React-7BDFF2)
 ![](https://img.shields.io/badge/JavaScript-ff5d8f)
 ![](https://img.shields.io/badge/HTML5-B2F7EF)
