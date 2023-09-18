@@ -16,7 +16,7 @@ I'm a third year CS student at the **University of Edinburgh**.
 ![](https://img.shields.io/badge/Java-F7D6E0)
 ![](https://img.shields.io/badge/Python-ff5d8f)
 ![](https://img.shields.io/badge/C-bff8ff)
-![](https://img.shields.io/badge/node.js-B2F7EF)B2F7EF
+![](https://img.shields.io/badge/node.js-B2F7EF)
 ![](https://img.shields.io/badge/MongoDB-bff8ff)
 ![](https://img.shields.io/badge/Express-ff5d8f)
 
