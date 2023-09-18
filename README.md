@@ -1,4 +1,4 @@
-<img src="https://images.squarespace-cdn.com/content/v1/5ad2754d75f9eeb22cb26028/1566715705847-O82KZ2V95UQCVKXQWZ0A/light+pink+banner-03.jpg?format=2500w" height="200px" width="100%"/>
+<img src="https://images.squarespace-cdn.com/content/v1/5ad2754d75f9eeb22cb26028/1566715705847-O82KZ2V95UQCVKXQWZ0A/light+pink+banner-03.jpg?format=2500w" height="120px" width="100%"/>
 
 ### Hi there, I'm Caterina 👋
 
