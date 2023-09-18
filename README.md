@@ -13,7 +13,7 @@ Code:
 ![](https://img.shields.io/badge/HTML5-B2F7EF)
 ![](https://img.shields.io/badge/Haskell-EFF7F6)
 ![](https://img.shields.io/badge/Java-F7D6E0)
-![](https://img.shields.io/badge/Python-F2B5D4)
+![](https://img.shields.io/badge/Python-ff5d8f)
 ![](https://img.shields.io/badge/C-bff8ff)
 
 
