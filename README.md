@@ -1,4 +1,5 @@
 <img src="https://images.squarespace-cdn.com/content/v1/5ad2754d75f9eeb22cb26028/1566715705847-O82KZ2V95UQCVKXQWZ0A/light+pink+banner-03.jpg?format=2500w"/>
+
 ### Hi there, I'm Caterina 👋
 
 I'm a third year CS student at the **University of Edinburgh**.
