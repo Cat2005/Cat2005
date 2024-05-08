@@ -4,8 +4,7 @@
 
 I'm a third year CS student at the **University of Edinburgh**.
 
-- 🔭 I’m currently working on a big personal project launching soon.
-- 🌱 I like attending hackathons - you can check out some projects I've done in the past for AthenaHack, HackZurich and ICHack.
+🌱 I like attending hackathons - you can check out some projects I've done in the past for AthenaHack, HackZurich and ICHack.
 
 **Some of my skills include:**
 
