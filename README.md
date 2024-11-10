@@ -4,19 +4,7 @@
 
 I'm a 4th year CS student at the **University of Edinburgh**.
 
-🌱 I like attending hackathons - you can check out some projects I've done in the past for AthenaHack, HackZurich and ICHack.
+🌱 I like attending hackathons - you can check out some projects I've done in the past for Hack the Burgh, ICHack, Hack Zurich and Athena Hack.
 
-**Some of my skills include:**
-
-![](https://img.shields.io/badge/React-7BDFF2)
-![](https://img.shields.io/badge/JavaScript-ff5d8f)
-![](https://img.shields.io/badge/HTML5-B2F7EF)
-![](https://img.shields.io/badge/Haskell-EFF7F6)
-![](https://img.shields.io/badge/Java-F7D6E0)
-![](https://img.shields.io/badge/Python-ff5d8f)
-![](https://img.shields.io/badge/C-bff8ff)
-![](https://img.shields.io/badge/node.js-B2F7EF)
-![](https://img.shields.io/badge/MongoDB-bff8ff)
-![](https://img.shields.io/badge/Express-ff5d8f)
-
+I do a lot of web dev!
 
