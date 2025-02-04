@@ -2,9 +2,8 @@
 
 ### Hi, I'm Cat :)
 
-- 4th year CS+AI student at UoE
-- hackathons + web dev
+👩🏽‍💻 4th year CS+AI student at UoE
+💻 hackathons + web dev 
+🌸 my website -> [caterina.codes](https://caterina.codes)
 - i'm not born in 2005.
-- my website -> [caterina.codes](https://caterina.codes)
-
 
