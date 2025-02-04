@@ -5,6 +5,6 @@
 - 4th year CS+AI student at UoE
 - hackathons + web dev
 - i'm not born in 2005.
-- my website -> [caterina.codes](caterina.codes)
+- my website -> [caterina.codes](https://caterina.codes)
 
 
