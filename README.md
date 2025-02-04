@@ -5,6 +5,6 @@
 - 4th year CS student at the **University of Edinburgh**.
 - hackathons + web dev
 - i'm not born in 2005.
-- my website -> [Link text Here](caterina.codes)
+- my website -> [caterina.codes](caterina.codes)
 
 
