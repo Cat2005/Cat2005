@@ -2,11 +2,7 @@
 
 ### Hi, I'm Cat :)
 
-I'm a 4th year CS student at the **University of Edinburgh**.
+- 4th year CS student at the **University of Edinburgh**.
+- hackathons + web dev
 
-I like attending hackathons - you can check out some projects I've done in the past for Hack the Burgh, ICHack, Hack Zurich and Athena Hack.
-
-I do a lot of web dev!
-
-and no, I'm not born in 2005... 20th May = 20/05
 
