@@ -2,7 +2,7 @@
 
 ### Hi, I'm Cat :)
 
-- 4th year CS student at the **University of Edinburgh**.
+- 4th year CS+AI student at UoE
 - hackathons + web dev
 - i'm not born in 2005.
 - my website -> [caterina.codes](caterina.codes)
