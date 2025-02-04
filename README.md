@@ -8,3 +8,5 @@ I like attending hackathons - you can check out some projects I've done in the p
 
 I do a lot of web dev!
 
+p.s before you ask me if I'm born in 2005... 20th May = 20/05
+
