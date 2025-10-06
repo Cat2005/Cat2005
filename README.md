@@ -1,5 +1,6 @@
 ### Hi, I'm Cat :)
 
+💚 Currently working @ Spotify
 👩🏽‍💻 CS+AI grad from University of Edinburgh <br>
 💻 hackathons + web dev <br>
 🌸 my website –> [caterina.codes](https://caterina.codes) <br>
